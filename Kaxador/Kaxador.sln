@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B12CB6DB-8472-C9DE-6317-2CB47673BA2B}") = "Kaxador", "Assembly-CSharp-firstpass.csproj", "{89C11F75-53E1-FBBF-0E30-FACBCAD07494}"
+EndProject
+Project("{B12CB6DB-8472-C9DE-6317-2CB47673BA2B}") = "Kaxador", "Assembly-CSharp.csproj", "{FE15E7A8-DB21-06B2-EF47-DFC2199FE4D5}"
+EndProject
+Project("{B12CB6DB-8472-C9DE-6317-2CB47673BA2B}") = "Kaxador", "Assembly-CSharp-Editor.csproj", "{13790BA8-A7E6-CA3F-BCCB-66E3676709FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89C11F75-53E1-FBBF-0E30-FACBCAD07494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C11F75-53E1-FBBF-0E30-FACBCAD07494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C11F75-53E1-FBBF-0E30-FACBCAD07494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C11F75-53E1-FBBF-0E30-FACBCAD07494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE15E7A8-DB21-06B2-EF47-DFC2199FE4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE15E7A8-DB21-06B2-EF47-DFC2199FE4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE15E7A8-DB21-06B2-EF47-DFC2199FE4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE15E7A8-DB21-06B2-EF47-DFC2199FE4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13790BA8-A7E6-CA3F-BCCB-66E3676709FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13790BA8-A7E6-CA3F-BCCB-66E3676709FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13790BA8-A7E6-CA3F-BCCB-66E3676709FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13790BA8-A7E6-CA3F-BCCB-66E3676709FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
